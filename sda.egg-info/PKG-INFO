@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: sda
+Version: 0.2
+Summary: Produces speech-driven faces
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: scikit-video
+Requires-Dist: scikit-image
+Requires-Dist: ffmpeg-python
+Requires-Dist: torch
+Requires-Dist: face-alignment
+Requires-Dist: torchvision
+Requires-Dist: pydub
